@@ -1,0 +1,33 @@
+﻿{
+    "name": "selectable",
+    "title": "jQuery Selectable With Single Selection",
+    "description": "jQuery selectable plugin with support single selection and ThemeRoller.",
+    "keywords": [
+        "selectable",
+        "single",
+		"singleselection",
+		"ThemeRoller"
+    ],
+    "version": "1.0.0",
+    "author": {
+        "name": "jQuery Foundation, Oleg Belousov and other contributors",
+        "url": "https://github.com/jquery/jquery-color/blob/2.1.2/AUTHORS.txt"
+    },
+    "maintainers": [
+        {
+            "name": "Oleg Belousov",
+            "email": "OlegBelousov@mail.ru",
+            "url": "http://www.facebook.com/OlegBelousov77"
+        }
+    ],
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "https://github.com/jquery/jquery-color/blob/2.1.2/MIT-LICENSE.txt"
+        }
+    ],
+    "dependencies": {
+        "jquery": ">=1.10",
+        "jquery ui": ">=1.10"
+    }
+}
