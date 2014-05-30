@@ -8,9 +8,9 @@
 		"singleselection",
 		"ThemeRoller"
     ],
-    "version": "1.0.0",
+    "version": "1.0.1",
     "author": {
-        "name": "jQuery Foundation, Oleg Belousov and other contributors",
+        "name": "jQuery Foundation, Oleg Belousov and other contributors"
     },
     "maintainers": [
         {
@@ -21,7 +21,7 @@
     ],
     "licenses": [
         {
-            "type": "MIT",
+            "type": "MIT"
         }
     ],
     "dependencies": {
