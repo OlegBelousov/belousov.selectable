@@ -1,4 +1,4 @@
-﻿/*! belousov.selectable - v1.0.1 - 2014-05-30
+﻿/*! belousov.selectable - v1.0.2 - 2014-05-30
 * http://jqueryui.com
 * Required: jquery-ui-1.10.4.js
 * Copyright 2014 jQuery Foundation, Oleg Belousov and other contributors; Licensed MIT */
@@ -6,7 +6,7 @@
 (function ($, undefined) {
 
     $.widget("belousov.selectable", $.ui.mouse, {
-        version: "1.0.1",
+        version: "1.0.2",
         options: {
             //appendTo: "body",
             autoRefresh: true,
